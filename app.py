@@ -3,3 +3,6 @@ def check_session(session_active):
         print("Session is active")
     else:
         print("Session is inactive")
+
+
+print("Utility support successful ")      
